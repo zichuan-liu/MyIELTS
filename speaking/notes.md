@@ -7,7 +7,7 @@
 - My full name is Liu Zichuan. 
 
 - Where are you from? （不要说多）
-- I'm from Beijing.
+- I'm from Wuhan.
 - (I'm from Shanxi province. You know, it's in the north of China, quite close to Shan'xi, where you can see the Terra Cotta Warriors.)
 
 - Are you a student or do you have a job?
@@ -74,7 +74,33 @@ Time, Money, Health, Relationships, Emotions, Experience, Environment, Culture, 
 **Linking Words**
 and, or, but, due to, because, such as, 
 
+万能膜拜：
 
+\1.   你做不做
+
+Well, for me, xxx. (直接回答I am really into xxx / That’s not my cup of tea / I would prefer to sit on the fence)
+
+The reason why is that xxxx
+
+Oh, by the way, recently, xxxxxx
+
+\2.   你曾经做没做
+
+Actually, I have to say xxx.
+
+If my memory serves me right, it was around 2022
+
+At that time, xxxxxx
+
+I vividly remember that xxxx
+
+\3.   观点类
+
+Well, I am with the view that xxx
+
+Because xxxx
+
+Oh it reminds me of sth happended last week, My best friend, Lucy, XXXX.
 
 # DAY-3 Part-2
 ##  Requiements
