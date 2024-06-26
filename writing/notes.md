@@ -164,8 +164,8 @@ step 3 -- locate other change (描述次要的变化，例如一些小设施的�
 
 开头：
 
-Nowadays, many headlines hit the newspaper on the topic of ,the issue has sparked a huge debate on whether议题. It is hard to deny that (反方最重要的论点），and such a fact leads impressionable people to generate the opinion that（反方观点/we should not/A has more disadvantages. 
-However, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously. As far as（正方论点1/culture），（正方论点2/economy），and（正方论点3/feasibility）are concerned, I strongly hold that（正方观点/we ought to/A has brought more advantages）.
+Nowadays, many headlines hit the newspaper on the topic of xxx , where an issue has sparked a huge debate on whether议题. It is hard to deny that (反方最重要的论点）. 
+While, such a statement suffers from both logical and factual fallacies, and it should be examined meticulously. As far as（正方论点1/culture），（正方论点2/economy），and（正方论点3/feasibility）are concerned, I strongly hold that（正方观点/we ought to/A has brought more advantages）.
 
 
 
@@ -215,6 +215,16 @@ However, I believe they will compromise after being exposed to my article.
 
 
 
+# simon
+
+第一段，paraphrase题目+answer
+
+第二段，五句话，1 topic sentence 2. firstly 3. secondly 4. finally
+
+第三段，五句话 , 1. idea,  2. explaination (2 or s3 sentences) 3. example
+
+conclusion，one sentence, paraphrasing to show variety
+
 
 
 
@@ -230,8 +240,11 @@ Paragraph 1: the beginning; Paragraph 2: point 1 and reasoning; Paragraph 3: poi
 ## 修改
 Act as an IELTS examiner, and rate a band score from 0-9 by the following IELTS essay, please point out its problems in categories of Task Response, Coherence and Cohesion, Lexical Resource, and Grammatical Range and Accuracy; and give corresponding corrections and improvements.
 
+here is the topic: [ ]
 
-Please point out the errors in my article
+Please point out the errors in my article:
+
+[]
 
 ## 重写
 Please follow the IELTS framework and my ideas to modify and revise my essay of about 300 words, with a score of about seven
