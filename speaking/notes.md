@@ -74,7 +74,7 @@ Time, Money, Health, Relationships, Emotions, Experience, Environment, Culture, 
 **Linking Words**
 and, or, but, due to, because, such as, 
 
-万能膜拜：
+万能模板：
 
 \1.   你做不做
 

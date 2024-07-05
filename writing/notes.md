@@ -171,13 +171,13 @@ While, such a statement suffers from both logical and factual fallacies, and it 
 
 说理：
 
-First and foremost,doing A is论点1，as 论点1的原因.
+First and foremost, doing A is论点1， as 论点1的原因.
 
-To be more spetific,the world today runs at an unprecedentedly fast spend and various industries require 继续解释上一句背景
+To be more specific,the world today runs at an unprecedentedly fast spend and various industries require 继续解释上一句背景
 
-In addition,we are able to 介绍一个过程or xxx could not only ,but 反驳对方观点./xxx has in many ways enormously enriched/harmed people’s lives
+In addition, we are able to 介绍一个过程or xxx could not only,but 反驳对方观点./xxx has in many ways enormously enriched/harmed people’s lives
 
-if we do not强调论点，we will not only lose a great opportunity in doing，but one in doing强调论点1的两大好处.
+if we do not强调论点，we will not only lose a great opportunity in doing， but one in doing强调论点1的两大好处.
 
 或
 
@@ -201,7 +201,7 @@ Nevertheless, a voice arises that反方观点-it creates反方论点（开头段
 
 Ironically,  指出漏洞IN the first place it can be claimed that ,in the second place, 
 
-Therefore，正方观点 is a feasible approach./as long as we use tools properly,we will be able to significantly enhance both xx and xx/local governments and international organizations should make a joint effort to reach a consensus to make sure this situation will develop in the right direction.
+Therefore，正方观点 is a feasible approach./as long as we use tools properly, we will be able to significantly enhance both xx and xx/local governments and international organizations should make a joint effort to reach a consensus to make sure this situation will develop in the right direction.
 
 
 
@@ -209,7 +209,7 @@ Therefore，正方观点 is a feasible approach./as long as we use tools properl
 
 in a nutshell, I maintain that正方观点.
 
-Admittedly, as my favorite quote from 某人goes, as long as the reason of man continues fallible, different opinions will be formed, and some people may oppose me.
+Admittedly, as my favorite quote from 某人goes, as long as the reason of man continues to fallible, different opinions will be formed, and some people may oppose me.
 
 However, I believe they will compromise after being exposed to my article.
 
