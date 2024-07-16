@@ -94,7 +94,15 @@ step 3 -- analysis: What are the key features of each group?
     e.g., The number of visitors to the museum demonstrated *an apparent upward* trend, increasing from 1000 to 2000 from 2007 to 2015.
 
 4. A + extent + change + can be seen in + sub, change in data
-    e.g., *A slight dip* can be seen in the quantity of fast food consumed, from 17 units person in 2019 to 15 units in 2021.
+    e.g., *A slight dip* can be seen in the quantity of fast food consumed, from 17 units per person in 2019 to 15 units in 2021.
+    
+5. There was + extent + change in +sub, change in data
+
+    e.g., There was a slight dip in the quantity of fast food consumed, from 17 units pre person in 2019 to 15 units in 2021.
+
+6. Before doing:
+
+    the proportion of women engineers in aerospace *rose consistently* from 7% in 2009 to 20% in 2020, before a predicted further hiking to 29% in 2025
 
 
 ## Static Charts
